@@ -1,7 +1,7 @@
 
 # Data Analyst to Data Scientist
 
-####Technical Skills
+#### Technical Skills
 Python, SQL, Tableau
 
 ### Education
