@@ -1,6 +1,9 @@
 
 # Data Analyst to Data Scientist
 
+####Technical Skills
+Python, SQL, Tableau
+
 ### Education
 University of Southampton - Mechanical Engineering
 
